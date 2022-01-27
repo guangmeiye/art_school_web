@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/art_school_web.iml" filepath="$PROJECT_DIR$/.idea/art_school_web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../auto_email_sender/.idea/auto_email_sender.iml" filepath="$PROJECT_DIR$/../auto_email_sender/.idea/auto_email_sender.iml" />
+    </modules>
+  </component>
+</project>
